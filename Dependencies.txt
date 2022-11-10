@@ -1,0 +1,9 @@
+Install-Package boost
+Install-Package boost_date_time-vc141
+Install-Package boost_filesystem-vc141
+Install-Package boost_log-vc141
+Install-Package boost_system-vc141
+Install-Package boost_thread-vc141
+Install-Package boost_log_setup-vc141
+Install-Package boost_chrono-vc141
+Install-Package boost_atomic-vc141
